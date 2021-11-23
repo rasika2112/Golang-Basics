@@ -10,7 +10,7 @@ func main() {
 	// 	"green": "#4fhsuj",
 	// }
 
-	// All keys should be of same tye and all values too
+	// All keys should be of same type and all values too
 	// It is reference type
 	colors := make(map[string]string)
 
