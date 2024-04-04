@@ -17,7 +17,7 @@ func main() {
 	colors["white"] = "#ffffff"
 	colors["green"] = "#fffgff"
 
-	// delete(colors, "white")
+	// delete(colors, "white") // delete is a  built in function
 
 	fmt.Println(colors)
 	printMap(colors)
